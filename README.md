@@ -20,7 +20,7 @@ int *ptr;
 - It allows us to return multiple values from functions.
 - It allows us to access a memory location in the computer’s memory.
 - It knows how many bytes the data is stored in.
-
+  
 ### Pointer Expressions:
 - set of arithmetic operations used in pointers:
 - incremented ( ++ )
